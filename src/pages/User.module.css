@@ -1,0 +1,18 @@
+.userPage{
+    height: max-content;
+    margin-bottom: 70px;
+}
+.bookmarkBlogText{
+    margin: 1rem;
+}
+.nothingToShowImgContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+.nothingToShowImg{
+    height: 40vh;
+    width: 80vw;
+}

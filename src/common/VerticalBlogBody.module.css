@@ -1,0 +1,26 @@
+.blogContainer{
+    display: flex;
+    margin: 1rem;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+.blogImage{
+    height: 5rem;
+    width: 8rem;
+    border-radius: 8px;
+}
+.titleAndBodyContainer{
+    display: grid;
+}
+.blogTitle{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.linkStyle {
+    text-decoration: none;
+    color: inherit;
+}
+.blogBody{
+    font-size: 0.8rem;
+    color: gray;
+}

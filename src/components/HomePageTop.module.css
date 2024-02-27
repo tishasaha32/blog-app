@@ -1,0 +1,13 @@
+.homePageTop{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+.createBlogButton{
+    background-color: #1f244b;
+    color: white;
+    font-size: 16px;
+    padding: 0.5rem 1rem;
+    border-radius: 12px;
+}

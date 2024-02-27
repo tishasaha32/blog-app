@@ -1,0 +1,96 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "How to be a professional UI/UX Designer?",
+      "coverImage": "https://img.freepik.com/free-vector/realistic-ui-ux-background_52683-69487.jpg?w=1060&t=st=1697129540~exp=1697130140~hmac=41a0a7b8671367dec489e699058f9082727b66073d4f8745d02ba6611e24881a",
+      "category": "design",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "isBookmarked": true,
+      "clickCount": 1
+    },
+    {
+      "id": 2,
+      "title": "Nurturing Your Mental Wellness.",
+      "coverImage": "https://img.freepik.com/free-vector/flat-mental-health-logo-collection_23-2148844566.jpg?size=626&ext=jpg&ga=GA1.1.569354401.1672415611&semt=ais",
+      "category": "health",
+      "body": "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
+      "isBookmarked": false,
+      "clickCount": 0
+    },
+    {
+      "id": 3,
+      "title": "The Beginner's Guide to Website Development.",
+      "coverImage": "https://img.freepik.com/free-photo/html-css-collage-concept-with-person_23-2150062008.jpg?size=626&ext=jpg&ga=GA1.1.569354401.1672415611&semt=ais",
+      "category": "development",
+      "body": "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
+      "isBookmarked": false,
+      "clickCount": 0
+    },
+    {
+      "title": "The Best Travel Locations in the World",
+      "coverImage": "https://img.freepik.com/free-photo/beautiful-girl-standing-boat-looking-mountains-ratchaprapha-dam-khao-sok-national-park-surat-thani-province-thailand_335224-849.jpg?size=626&ext=jpg&ga=GA1.2.569354401.1672415611&semt=sph",
+      "category": "travel",
+      "body": "<p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing</strong> </p><p><br></p><p><em>elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</em> </p><p><br></p><p><u>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</u> </p><p><br></p><ul><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li><li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</li><li> mollit anim id est laborum.</li></ul>",
+      "id": 4,
+      "isBookmarked": false,
+      "clickCount": 3
+    },
+    {
+      "title": "Are Humans Really Safe? The Upgradation!",
+      "coverImage": "https://img.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_23-2149126949.jpg?size=626&ext=jpg&ga=GA1.1.569354401.1672415611&semt=sph",
+      "category": "technology",
+      "body": "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
+      "id": 5,
+      "isBookmarked": false,
+      "clickCount": 3
+    },
+    {
+      "title": "Build a Career in Interior Designing!",
+      "coverImage": "https://img.freepik.com/free-photo/close-up-woman-with-color-palette_23-2148819842.jpg?t=st=1698133148~exp=1698133748~hmac=f366dc0c4e30479361cabd76e5a5fe83a09e3bdb927c14fa3b2f994563495e42",
+      "category": "design",
+      "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin nunc enim, nec tincidunt mauris ultrices at. Pellentesque vel lacus ullamcorper massa facilisis pellentesque. Integer consequat maximus est, id semper lectus consequat nec. Suspendisse nec neque eget odio iaculis molestie. Ut tempus felis non dolor feugiat varius. Nam imperdiet, justo nec posuere consectetur, libero nulla gravida dolor, eget tristique tortor arcu nec metus. Donec at congue diam, sed ullamcorper odio. Suspendisse potenti. Nulla eget libero nisl. Quisque sit amet augue id urna lobortis pulvinar vitae at tortor. Nullam accumsan justo et augue aliquam placerat.</span></p>",
+      "id": 6,
+      "isBookmarked": false,
+      "clickCount": 0
+    },
+    {
+      "title": "Graphic Desinging and its Importance.",
+      "coverImage": "https://img.freepik.com/free-photo/abstract-colorful-splash-3d-background-generative-ai-background_60438-2509.jpg?size=626&ext=jpg&ga=GA1.1.569354401.1672415611&semt=sph",
+      "category": "design",
+      "body": "<p>Nullam ut porta ipsum. Cras tempus, ligula eu laoreet sagittis, ipsum ex interdum risus, eget consectetur urna neque ullamcorper lectus. Ut dictum, diam vel gravida fermentum, metus elit mattis augue, id vehicula nisi lorem vel sem. Aliquam non ante vel lectus dignissim pulvinar in vel velit. Nam ut lacus placerat, imperdiet ipsum sit amet, auctor lorem. Mauris elementum purus non ligula cursus, sed venenatis urna pretium. Aenean neque ante, placerat ut lectus sit amet, lobortis pulvinar enim. Nam non risus malesuada, mattis justo eu, rhoncus eros. Ut vel tempus erat. Praesent ac ipsum ut sem pretium mollis. Morbi non ipsum ultricies, finibus enim in, suscipit neque. Sed commodo et purus sed feugiat. Suspendisse ut felis nisi. Nam ullamcorper urna lorem, at pulvinar diam elementum vitae. Etiam erat lectus, ultrices at luctus sed, gravida a ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</span></p>",
+      "id": 7,
+      "isBookmarked": false,
+      "clickCount": 2
+    },
+    {
+      "title": "Desinging: The Whole World of Designs",
+      "coverImage": "https://img.freepik.com/free-photo/colorful-wallpaper-background-multicolored-generative-ai_91128-2257.jpg?w=1380&t=st=1698133662~exp=1698134262~hmac=bed780822bd09b57ceac0b38adefc8f7084cd54eac6817bf3bab312ce4372d02",
+      "category": "design",
+      "body": "<p>Nullam ut porta ipsum. Cras tempus, ligula eu laoreet sagittis, ipsum ex interdum risus, eget consectetur urna neque ullamcorper lectus. Ut dictum, diam vel gravida fermentum, metus elit mattis augue, id vehicula nisi lorem vel sem. Aliquam non ante vel lectus dignissim pulvinar in vel velit. Nam ut lacus placerat, imperdiet ipsum sit amet, auctor lorem. Mauris elementum purus non ligula cursus, sed venenatis urna pretium. Aenean neque ante, placerat ut lectus sit amet, lobortis pulvinar enim. Nam non risus malesuada, mattis justo eu, rhoncus eros. Ut vel tempus erat. Praesent ac ipsum ut sem pretium mollis. Morbi non ipsum ultricies, finibus enim in, suscipit neque. Sed commodo et purus sed feugiat. Suspendisse ut felis nisi. Nam ullamcorper urna lorem, at pulvinar diam elementum vitae. Etiam erat lectus, ultrices at luctus sed, gravida a ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</span></p>",
+      "id": 8,
+      "isBookmarked": true,
+      "clickCount": 0
+    }
+  ],
+  "bookmark": [
+    {
+      "id": 1,
+      "title": "How to be a professional UI/UX Designer?",
+      "coverImage": "https://img.freepik.com/free-vector/realistic-ui-ux-background_52683-69487.jpg?w=1060&t=st=1697129540~exp=1697130140~hmac=41a0a7b8671367dec489e699058f9082727b66073d4f8745d02ba6611e24881a",
+      "category": "design",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "isBookmarked": true,
+      "clickCount": 1
+    },
+    {
+      "title": "Desinging: The Whole World of Designs",
+      "coverImage": "https://img.freepik.com/free-photo/colorful-wallpaper-background-multicolored-generative-ai_91128-2257.jpg?w=1380&t=st=1698133662~exp=1698134262~hmac=bed780822bd09b57ceac0b38adefc8f7084cd54eac6817bf3bab312ce4372d02",
+      "category": "design",
+      "body": "<p>Nullam ut porta ipsum. Cras tempus, ligula eu laoreet sagittis, ipsum ex interdum risus, eget consectetur urna neque ullamcorper lectus. Ut dictum, diam vel gravida fermentum, metus elit mattis augue, id vehicula nisi lorem vel sem. Aliquam non ante vel lectus dignissim pulvinar in vel velit. Nam ut lacus placerat, imperdiet ipsum sit amet, auctor lorem. Mauris elementum purus non ligula cursus, sed venenatis urna pretium. Aenean neque ante, placerat ut lectus sit amet, lobortis pulvinar enim. Nam non risus malesuada, mattis justo eu, rhoncus eros. Ut vel tempus erat. Praesent ac ipsum ut sem pretium mollis. Morbi non ipsum ultricies, finibus enim in, suscipit neque. Sed commodo et purus sed feugiat. Suspendisse ut felis nisi. Nam ullamcorper urna lorem, at pulvinar diam elementum vitae. Etiam erat lectus, ultrices at luctus sed, gravida a ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</span></p>",
+      "id": 8,
+      "isBookmarked": true,
+      "clickCount": 0
+    }
+  ]
+}

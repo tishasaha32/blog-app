@@ -1,0 +1,31 @@
+.forYou{
+    margin: 3rem 1rem 1rem 1rem;
+}
+.category{
+    overflow: hidden;
+}
+.categoryContainer{
+    display: flex;
+    width: 100vw;
+    margin: 1rem;
+    overflow-x: scroll;
+    white-space: nowrap;
+    width: 95vw;
+}
+.categoryContainer button{
+    margin-right: 0.8rem;
+    font-size: 1rem;
+    padding: 8px 12px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    color: gray;
+    background-color: white;
+}
+.active{
+    background-color: #1f244b!important;
+    color: white!important;
+    font-weight: 600;
+}
+.categoryContainer::-webkit-scrollbar {
+    display: none;
+}
