@@ -3,7 +3,7 @@ import styles from "./Category.module.css";
 import CategoryWiseBlogs from "../common/CategoryWiseBlogs";
 
 function Category() {
-  const [activeTab, setActiveTab] = useState("design");
+  const [activeTab, setActiveTab] = useState("all");
 
   const handleClick = (tab) => {
     setActiveTab(tab);
@@ -13,6 +13,12 @@ function Category() {
     <div className={styles.category}>
       <h2 className={styles.forYou}>For You</h2>
       <div className={styles.categoryContainer}>
+        <button
+          className={activeTab === "all" ? `${styles.active}` : ""}
+          onClick={() => handleClick("all")}
+        >
+          All
+        </button>
         <button
           className={activeTab === "design" ? `${styles.active}` : ""}
           onClick={() => handleClick("design")}

@@ -2,3 +2,19 @@
     height: max-content;
     margin-bottom: 70px;
 }
+.pagination{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.paginationButton{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    border: none;
+}
+.paginationButton:hover {
+    background-color: #1f244b;
+    color: white;
+}
+  

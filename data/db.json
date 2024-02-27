@@ -7,7 +7,7 @@
       "category": "design",
       "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "isBookmarked": true,
-      "clickCount": 1
+      "clickCount": 2
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "category": "health",
       "body": "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
       "isBookmarked": false,
-      "clickCount": 0
+      "clickCount": 1
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "body": "<p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing</strong> </p><p><br></p><p><em>elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</em> </p><p><br></p><p><u>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</u> </p><p><br></p><ul><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li><li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</li><li> mollit anim id est laborum.</li></ul>",
       "id": 4,
       "isBookmarked": false,
-      "clickCount": 3
+      "clickCount": 4
     },
     {
       "title": "Are Humans Really Safe? The Upgradation!",
@@ -43,7 +43,7 @@
       "body": "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
       "id": 5,
       "isBookmarked": false,
-      "clickCount": 3
+      "clickCount": 4
     },
     {
       "title": "Build a Career in Interior Designing!",
@@ -51,7 +51,7 @@
       "category": "design",
       "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin nunc enim, nec tincidunt mauris ultrices at. Pellentesque vel lacus ullamcorper massa facilisis pellentesque. Integer consequat maximus est, id semper lectus consequat nec. Suspendisse nec neque eget odio iaculis molestie. Ut tempus felis non dolor feugiat varius. Nam imperdiet, justo nec posuere consectetur, libero nulla gravida dolor, eget tristique tortor arcu nec metus. Donec at congue diam, sed ullamcorper odio. Suspendisse potenti. Nulla eget libero nisl. Quisque sit amet augue id urna lobortis pulvinar vitae at tortor. Nullam accumsan justo et augue aliquam placerat.</span></p>",
       "id": 6,
-      "isBookmarked": false,
+      "isBookmarked": true,
       "clickCount": 0
     },
     {
@@ -61,7 +61,7 @@
       "body": "<p>Nullam ut porta ipsum. Cras tempus, ligula eu laoreet sagittis, ipsum ex interdum risus, eget consectetur urna neque ullamcorper lectus. Ut dictum, diam vel gravida fermentum, metus elit mattis augue, id vehicula nisi lorem vel sem. Aliquam non ante vel lectus dignissim pulvinar in vel velit. Nam ut lacus placerat, imperdiet ipsum sit amet, auctor lorem. Mauris elementum purus non ligula cursus, sed venenatis urna pretium. Aenean neque ante, placerat ut lectus sit amet, lobortis pulvinar enim. Nam non risus malesuada, mattis justo eu, rhoncus eros. Ut vel tempus erat. Praesent ac ipsum ut sem pretium mollis. Morbi non ipsum ultricies, finibus enim in, suscipit neque. Sed commodo et purus sed feugiat. Suspendisse ut felis nisi. Nam ullamcorper urna lorem, at pulvinar diam elementum vitae. Etiam erat lectus, ultrices at luctus sed, gravida a ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</span></p>",
       "id": 7,
       "isBookmarked": false,
-      "clickCount": 2
+      "clickCount": 5
     },
     {
       "title": "Desinging: The Whole World of Designs",
@@ -71,6 +71,42 @@
       "id": 8,
       "isBookmarked": true,
       "clickCount": 0
+    },
+    {
+      "title": "10 Tips for Effective Time Management",
+      "coverImage": "https://img.freepik.com/free-vector/hand-drawn-time-management-concept_23-2148819272.jpg?t=st=1709051567~exp=1709055167~hmac=ffc7f96ef1911ba22ebf2cd710aedec36af9c541f353999fc08b9542ae46da34&w=996",
+      "category": "health",
+      "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis ante magna. Integer laoreet ex eu magna malesuada, nec scelerisque urna aliquet. Integer fringilla nunc ac mauris dignissim ultricies. Donec rhoncus eleifend nunc vel tincidunt. Cras suscipit congue felis, a vehicula lorem varius in. Vivamus condimentum neque vel eleifend finibus. Nam et bibendum libero. Duis ac turpis lacinia, molestie leo vitae, scelerisque nisi. Proin vestibulum libero a arcu vehicula, id semper urna gravida. Nam nec vestibulum orci, eget varius ligula. Nam eu nulla sed urna fringilla ultricies. Nulla euismod diam ac elit pharetra, ut dictum risus consectetur. Nulla et ante id felis ultricies semper. Nulla vestibulum est id varius malesuada.</p>",
+      "isBookmarked": false,
+      "clickCount": 1,
+      "id": 9
+    },
+    {
+      "title": "The Benefits of Regular Exercise",
+      "coverImage": "https://img.freepik.com/free-vector/stretching-exercises-concept-illustration_114360-8922.jpg?t=st=1709051655~exp=1709055255~hmac=22208594d115c7e1ae2bab3a81d17b4d2a2a722632b2f9cc79382eb3d3d61397&w=996",
+      "category": "health",
+      "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis ante magna. Integer laoreet ex eu magna malesuada, nec scelerisque urna aliquet. Integer fringilla nunc ac mauris dignissim ultricies. Donec rhoncus eleifend nunc vel tincidunt. Cras suscipit congue felis, a vehicula lorem varius in. Vivamus condimentum neque vel eleifend finibus. Nam et bibendum libero. Duis ac turpis lacinia, molestie leo vitae, scelerisque nisi. Proin vestibulum libero a arcu vehicula, id semper urna gravida. Nam nec vestibulum orci, eget varius ligula. Nam eu nulla sed urna fringilla ultricies. Nulla euismod diam ac elit pharetra, ut dictum risus consectetur. Nulla et ante id felis ultricies semper. Nulla vestibulum est id varius malesuada.</p>",
+      "isBookmarked": false,
+      "clickCount": 0,
+      "id": 10
+    },
+    {
+      "title": "Introduction to React Hooks",
+      "coverImage": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1709051769~exp=1709055369~hmac=29afcbd373552a0a1d61627c4f128e4a468f5f622a53081bebfb4b0b0f7d9dee&w=996",
+      "category": "development",
+      "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis ante magna. Integer laoreet ex eu magna malesuada, nec scelerisque urna aliquet. Integer fringilla nunc ac mauris dignissim ultricies. Donec rhoncus eleifend nunc vel tincidunt. Cras suscipit congue felis, a vehicula lorem varius in. Vivamus condimentum neque vel eleifend finibus. Nam et bibendum libero. Duis ac turpis lacinia, molestie leo vitae, scelerisque nisi. Proin vestibulum libero a arcu vehicula, id semper urna gravida. Nam nec vestibulum orci, eget varius ligula. Nam eu nulla sed urna fringilla ultricies. Nulla euismod diam ac elit pharetra, ut dictum risus consectetur. Nulla et ante id felis ultricies semper. Nulla vestibulum est id varius malesuada.</p>",
+      "isBookmarked": false,
+      "clickCount": 0,
+      "id": 11
+    },
+    {
+      "title": "Effective Travel Tips",
+      "coverImage": "https://img.freepik.com/free-photo/rest-sunshine-atoll-bungalow-holiday_1232-3876.jpg?t=st=1709051867~exp=1709055467~hmac=45b1036cf4bd280871660f7ba8676a0c623d77c8a4ef00fee4b440be779c1c97&w=996",
+      "category": "travel",
+      "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis ante magna. Integer laoreet ex eu magna malesuada, nec scelerisque urna aliquet. Integer fringilla nunc ac mauris dignissim ultricies. Donec rhoncus eleifend nunc vel tincidunt. Cras suscipit congue felis, a vehicula lorem varius in. Vivamus condimentum neque vel eleifend finibus. Nam et bibendum libero. Duis ac turpis lacinia, molestie leo vitae, scelerisque nisi. Proin vestibulum libero a arcu vehicula, id semper urna gravida. Nam nec vestibulum orci, eget varius ligula. Nam eu nulla sed urna fringilla ultricies. Nulla euismod diam ac elit pharetra, ut dictum risus consectetur. Nulla et ante id felis ultricies semper. Nulla vestibulum est id varius malesuada.</p>",
+      "isBookmarked": false,
+      "clickCount": 0,
+      "id": 12
     }
   ],
   "bookmark": [
@@ -89,6 +125,15 @@
       "category": "design",
       "body": "<p>Nullam ut porta ipsum. Cras tempus, ligula eu laoreet sagittis, ipsum ex interdum risus, eget consectetur urna neque ullamcorper lectus. Ut dictum, diam vel gravida fermentum, metus elit mattis augue, id vehicula nisi lorem vel sem. Aliquam non ante vel lectus dignissim pulvinar in vel velit. Nam ut lacus placerat, imperdiet ipsum sit amet, auctor lorem. Mauris elementum purus non ligula cursus, sed venenatis urna pretium. Aenean neque ante, placerat ut lectus sit amet, lobortis pulvinar enim. Nam non risus malesuada, mattis justo eu, rhoncus eros. Ut vel tempus erat. Praesent ac ipsum ut sem pretium mollis. Morbi non ipsum ultricies, finibus enim in, suscipit neque. Sed commodo et purus sed feugiat. Suspendisse ut felis nisi. Nam ullamcorper urna lorem, at pulvinar diam elementum vitae. Etiam erat lectus, ultrices at luctus sed, gravida a ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</span></p>",
       "id": 8,
+      "isBookmarked": true,
+      "clickCount": 0
+    },
+    {
+      "title": "Build a Career in Interior Designing!",
+      "coverImage": "https://img.freepik.com/free-photo/close-up-woman-with-color-palette_23-2148819842.jpg?t=st=1698133148~exp=1698133748~hmac=f366dc0c4e30479361cabd76e5a5fe83a09e3bdb927c14fa3b2f994563495e42",
+      "category": "design",
+      "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sollicitudin nunc enim, nec tincidunt mauris ultrices at. Pellentesque vel lacus ullamcorper massa facilisis pellentesque. Integer consequat maximus est, id semper lectus consequat nec. Suspendisse nec neque eget odio iaculis molestie. Ut tempus felis non dolor feugiat varius. Nam imperdiet, justo nec posuere consectetur, libero nulla gravida dolor, eget tristique tortor arcu nec metus. Donec at congue diam, sed ullamcorper odio. Suspendisse potenti. Nulla eget libero nisl. Quisque sit amet augue id urna lobortis pulvinar vitae at tortor. Nullam accumsan justo et augue aliquam placerat.</span></p>",
+      "id": 6,
       "isBookmarked": true,
       "clickCount": 0
     }
