@@ -3,6 +3,8 @@ import axios from "axios";
 import { useParams } from "react-router-dom";
 import styles from "./BlogBody.module.css";
 import BottomNavigationBar from "../common/BottomNavigationBar";
+import { IoMdArrowBack } from "react-icons/io";
+import { Link } from "react-router-dom";
 
 function Blog({ match }) {
   const { id } = useParams();
@@ -26,7 +28,12 @@ function Blog({ match }) {
 
   return (
     <div className={styles.blogBodyContainer}>
-      <img src={blog.coverImage} className={styles.blogImage} />
+      <Link to="/">
+        <IoMdArrowBack className={styles.backButton} />
+      </Link>
+      <div className={styles.blogImgContainer}>
+        <img src={blog.coverImage} className={styles.blogImage} />
+      </div>
       <h1 className={styles.blogTitle}>{blog.title}</h1>
       <div
         dangerouslySetInnerHTML={{ __html: blog.body }}

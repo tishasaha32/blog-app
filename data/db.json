@@ -7,7 +7,7 @@
       "category": "design",
       "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "isBookmarked": true,
-      "clickCount": 3
+      "clickCount": 11
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "category": "health",
       "body": "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
       "isBookmarked": true,
-      "clickCount": 1
+      "clickCount": 4
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "category": "development",
       "body": "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
       "isBookmarked": false,
-      "clickCount": 0
+      "clickCount": 2
     },
     {
       "title": "The Best Travel Locations in the World",
@@ -34,7 +34,7 @@
       "body": "<p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing</strong> </p><p><br></p><p><em>elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,</em> </p><p><br></p><p><u>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</u> </p><p><br></p><ul><li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</li><li>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</li><li> mollit anim id est laborum.</li></ul>",
       "id": 4,
       "isBookmarked": false,
-      "clickCount": 4
+      "clickCount": 6
     },
     {
       "title": "Are Humans Really Safe? The Upgradation!",
@@ -70,7 +70,7 @@
       "body": "<p>Nullam ut porta ipsum. Cras tempus, ligula eu laoreet sagittis, ipsum ex interdum risus, eget consectetur urna neque ullamcorper lectus. Ut dictum, diam vel gravida fermentum, metus elit mattis augue, id vehicula nisi lorem vel sem. Aliquam non ante vel lectus dignissim pulvinar in vel velit. Nam ut lacus placerat, imperdiet ipsum sit amet, auctor lorem. Mauris elementum purus non ligula cursus, sed venenatis urna pretium. Aenean neque ante, placerat ut lectus sit amet, lobortis pulvinar enim. Nam non risus malesuada, mattis justo eu, rhoncus eros. Ut vel tempus erat. Praesent ac ipsum ut sem pretium mollis. Morbi non ipsum ultricies, finibus enim in, suscipit neque. Sed commodo et purus sed feugiat. Suspendisse ut felis nisi. Nam ullamcorper urna lorem, at pulvinar diam elementum vitae. Etiam erat lectus, ultrices at luctus sed, gravida a ante. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</span></p>",
       "id": 8,
       "isBookmarked": true,
-      "clickCount": 0
+      "clickCount": 1
     },
     {
       "title": "10 Tips for Effective Time Management",
@@ -105,8 +105,53 @@
       "category": "travel",
       "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis ante magna. Integer laoreet ex eu magna malesuada, nec scelerisque urna aliquet. Integer fringilla nunc ac mauris dignissim ultricies. Donec rhoncus eleifend nunc vel tincidunt. Cras suscipit congue felis, a vehicula lorem varius in. Vivamus condimentum neque vel eleifend finibus. Nam et bibendum libero. Duis ac turpis lacinia, molestie leo vitae, scelerisque nisi. Proin vestibulum libero a arcu vehicula, id semper urna gravida. Nam nec vestibulum orci, eget varius ligula. Nam eu nulla sed urna fringilla ultricies. Nulla euismod diam ac elit pharetra, ut dictum risus consectetur. Nulla et ante id felis ultricies semper. Nulla vestibulum est id varius malesuada.</p>",
       "isBookmarked": false,
-      "clickCount": 0,
+      "clickCount": 1,
       "id": 12
+    },
+    {
+      "title": "10 Graphic Design Trends to Watch Out for in ",
+      "coverImage": "https://img.freepik.com/free-vector/landing-page-design-process-concept_23-2148303913.jpg?t=st=1710416846~exp=1710420446~hmac=65a5718286e4b7d048707481cbc4440529e61f728371a08cb2f6a9d52738e5cc&w=996",
+      "category": "design",
+      "body": "<p><strong style=\"background-color: rgb(255, 255, 255);\">Lorem Ipsum</strong><span style=\"background-color: rgb(255, 255, 255);\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>",
+      "isBookmarked": false,
+      "clickCount": 0,
+      "id": 13
+    },
+    {
+      "title": "The Role of Typography in Modern Web Design",
+      "coverImage": "https://img.freepik.com/free-vector/polygraphy-printing-house-industry-isometric-web-banner_107791-3460.jpg?t=st=1710417144~exp=1710420744~hmac=71cd47222832c3c0a28c24acaf67e2a302b8032bd3977e99976ff6a5c50ea025&w=1060",
+      "category": "design",
+      "body": "<p><strong style=\"background-color: rgb(255, 255, 255);\">Lorem Ipsum</strong><span style=\"background-color: rgb(255, 255, 255);\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>",
+      "isBookmarked": false,
+      "clickCount": 0,
+      "id": 14
+    },
+    {
+      "title": "Exploring Minimalist Architecture",
+      "coverImage": "https://img.freepik.com/free-vector/design-team-concept-illustration_114360-4531.jpg?t=st=1710416947~exp=1710420547~hmac=81f00e7622686b125955e7522df8105c470a899d2abe8935f4cfd2718cc7db41&w=996",
+      "category": "design",
+      "body": "<p><strong style=\"background-color: rgb(255, 255, 255);\">Lorem Ipsum</strong><span style=\"background-color: rgb(255, 255, 255);\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>",
+      "isBookmarked": false,
+      "clickCount": 0,
+      "id": 15
+    },
+    {
+      "title": "Mastering CSS Flexbox: A Comprehensive Guide",
+      "coverImage": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?t=st=1710417285~exp=1710420885~hmac=bab68964b987e39dd5b1b6af27990b0fa2d0162974c358c114d033bd6f478f19&w=996",
+      "category": "development",
+      "body": "<p><strong style=\"background-color: rgb(255, 255, 255);\">Lorem Ipsum</strong><span style=\"background-color: rgb(255, 255, 255);\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>",
+      "isBookmarked": false,
+      "clickCount": 0,
+      "id": 16
+    },
+    {
+      "title": "Introduction to React Hooks: Simplifying Stat",
+      "coverImage": "https://img.freepik.com/premium-vector/programmer-desk_1302-14802.jpg?w=1060",
+      "category": "development",
+      "body": "<p><strong style=\"background-color: rgb(255, 255, 255);\">Lorem Ipsum</strong><span style=\"background-color: rgb(255, 255, 255);\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>",
+      "isBookmarked": true,
+      "clickCount": 0,
+      "id": 17
     }
   ],
   "bookmark": [
@@ -145,6 +190,15 @@
       "body": "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum,Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
       "isBookmarked": true,
       "clickCount": 1
+    },
+    {
+      "title": "Introduction to React Hooks: Simplifying Stat",
+      "coverImage": "https://img.freepik.com/premium-vector/programmer-desk_1302-14802.jpg?w=1060",
+      "category": "development",
+      "body": "<p><strong style=\"background-color: rgb(255, 255, 255);\">Lorem Ipsum</strong><span style=\"background-color: rgb(255, 255, 255);\">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span></p>",
+      "isBookmarked": true,
+      "clickCount": 0,
+      "id": 17
     }
   ]
 }

@@ -7,6 +7,7 @@ import { Link } from "react-router-dom";
 
 function AddBlogs() {
   const [blogBody, setBlogBody] = useState("");
+  const [showPopup, setShowPopup] = useState(false); // State to manage popup visibility
 
   const initialBlogState = {
     title: "",
@@ -33,7 +34,10 @@ function AddBlogs() {
         .post("http://localhost:8000/blogs", { ...blog, body: blogBody })
         .then((response) => {
           setBlog(response.data);
-          console.log(response);
+          setShowPopup(true); // Show popup message when the blog is successfully added
+          setTimeout(() => {
+            setShowPopup(false); // Hide popup message after 3 seconds
+          }, 3000);
         });
       setBlog(initialBlogState);
       setBlogBody("");
@@ -90,6 +94,11 @@ function AddBlogs() {
         >
           Add Blog
         </button>
+        {showPopup && (
+          <div className={styles.popup}>
+            <p className={styles.popupMessage}>Blog added successfully!</p>
+          </div>
+        )}
         <Link to="/">
           <p className={styles.homeButton}>Go to Home</p>
         </Link>

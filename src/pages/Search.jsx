@@ -50,6 +50,7 @@ function Search() {
           Search results for <i>"{searchTerm}"</i>
         </p>
       ) : null}
+
       {searchTerm !== "" ? (
         searchResults.map((searchResult) => (
           <VerticalBlogBody blog={searchResult} />

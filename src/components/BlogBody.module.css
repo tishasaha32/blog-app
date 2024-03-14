@@ -1,13 +1,28 @@
 .blogTitle{
     margin: 1rem;
 }
+.blogImgContainer{
+    position: relative;
+    width: 100%;
+    
+}
 .blogImage{
     width: 100%;
+    height: auto;
     border-radius: 10px;
-    /* position: fixed; */
 }
 .blogBody{
     margin: 2rem;
     font-size: 20px;
     margin-bottom: 5rem;
+}
+.backButton{
+    position: absolute;
+    z-index: 1;
+    top: 10px; 
+    left: 10px;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: white;
+    border-radius: 1rem;
 }
