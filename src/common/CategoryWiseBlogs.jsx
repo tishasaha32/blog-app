@@ -7,8 +7,8 @@ import VerticalBlogBody from "./VerticalBlogBody";
 function CategoryWiseBlogs({ activeTab }) {
   const [blogs, setBlogs] = useState([]);
   const [filteredBlogs, setFilteredBlogs] = useState([]);
-  const [currentPage, setCurrentPage] = useState(1);
-  const [blogsPerPage] = useState(5);
+  const [currentPage, setCurrentPage] = useState(0); // Changed initial value to 0
+  const [blogsPerPage] = useState(5); // Changed blogsPerPage to 5
 
   useEffect(() => {
     axios
@@ -28,16 +28,27 @@ function CategoryWiseBlogs({ activeTab }) {
       const filteredBlog = blogs.filter((blog) => blog.category === activeTab);
       setFilteredBlogs(filteredBlog);
     }
-    setCurrentPage(1); // Reset to first page when activeTab changes
+    setCurrentPage(0); // Reset to first page when activeTab changes
   }, [blogs, activeTab]);
 
   // Logic to get current blogs based on pagination
-  const indexOfLastBlog = currentPage * blogsPerPage;
+  const indexOfLastBlog = (currentPage + 1) * blogsPerPage;
   const indexOfFirstBlog = indexOfLastBlog - blogsPerPage;
   const currentBlogs = filteredBlogs.slice(indexOfFirstBlog, indexOfLastBlog);
 
-  // Change page
-  const paginate = (pageNumber) => setCurrentPage(pageNumber);
+  // Change page to next
+  const nextPage = () => {
+    if (currentPage < Math.ceil(filteredBlogs.length / blogsPerPage) - 1) {
+      setCurrentPage(currentPage + 1);
+    }
+  };
+
+  // Change page to previous
+  const prevPage = () => {
+    if (currentPage > 0) {
+      setCurrentPage(currentPage - 1);
+    }
+  };
 
   return (
     <div className={styles.categoryWiseBlog}>
@@ -50,21 +61,24 @@ function CategoryWiseBlogs({ activeTab }) {
       )}
 
       {/* Pagination */}
-      <ul className={styles.pagination}>
-        {Array.from(
-          { length: Math.ceil(filteredBlogs.length / blogsPerPage) },
-          (_, i) => (
-            <div key={i} className={currentPage === i + 1 ? styles.active : ""}>
-              <button
-                onClick={() => paginate(i + 1)}
-                className={styles.paginationButton}
-              >
-                {i + 1}
-              </button>
-            </div>
-          )
-        )}
-      </ul>
+      <div className={styles.pagination}>
+        <button
+          onClick={prevPage}
+          disabled={currentPage === 0}
+          className={styles.paginationButton}
+        >
+          Previous
+        </button>
+        <button
+          onClick={nextPage}
+          disabled={
+            currentPage === Math.ceil(filteredBlogs.length / blogsPerPage) - 1
+          }
+          className={styles.paginationButton}
+        >
+          Next
+        </button>
+      </div>
     </div>
   );
 }

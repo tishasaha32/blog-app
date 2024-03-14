@@ -4,17 +4,16 @@
 }
 .pagination{
     display: flex;
-    gap: 10px;
     justify-content: center;
+    justify-content: space-around;
 }
 .paginationButton{
-    width: 2rem;
+    width: 4rem;
     height: 2rem;
-    border-radius: 50%;
+    border-radius: 2rem;
     border: none;
 }
-.paginationButton:hover {
+.paginationButton:hover:not([disabled]) {
     background-color: #1f244b;
     color: white;
 }
-  
