@@ -10,7 +10,7 @@ function User() {
 
   useEffect(() => {
     axios
-      .get("http://localhost:8000/bookmark")
+      .get("https://blog-app-json-server.onrender.com/bookmark")
       .then((response) => {
         setBookmarkBlogs(response.data);
       })

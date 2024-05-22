@@ -31,7 +31,10 @@ function AddBlogs() {
 
     try {
       await axios
-        .post("http://localhost:8000/blogs", { ...blog, body: blogBody })
+        .post("https://blog-app-json-server.onrender.com/blogs", {
+          ...blog,
+          body: blogBody,
+        })
         .then((response) => {
           setBlog(response.data);
           setShowPopup(true); // Show popup message when the blog is successfully added

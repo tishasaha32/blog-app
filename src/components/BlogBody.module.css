@@ -9,7 +9,6 @@
 .blogImage{
     width: 100%;
     height: auto;
-    border-radius: 10px;
 }
 .blogBody{
     margin: 2rem;
@@ -25,4 +24,15 @@
     height: 1.5rem;
     background-color: white;
     border-radius: 1rem;
+}
+
+@media only screen and (min-width: 600px) {
+.blogImgContainer{
+
+}
+.blogImage{
+    height: 50vh;
+    object-fit: cover;
+    border-radius: 0;
+}
 }

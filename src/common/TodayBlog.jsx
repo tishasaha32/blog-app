@@ -11,7 +11,7 @@ function TodayBlog() {
 
   useEffect(() => {
     axios
-      .get("http://localhost:8000/blogs")
+      .get("https://blog-app-json-server.onrender.com/blogs")
       .then((response) => {
         setBlogs(response.data);
       })
@@ -22,7 +22,7 @@ function TodayBlog() {
 
   useEffect(() => {
     axios
-      .get("http://localhost:8000/bookmark")
+      .get("https://blog-app-json-server.onrender.com/bookmark")
       .then((response) => {
         setBookmarkedBlogs(response.data);
       })
@@ -39,7 +39,10 @@ function TodayBlog() {
     setBlogs(newBlogs);
 
     try {
-      await axios.put(`http://localhost:8000/blogs/${id}`, clickedBlog);
+      await axios.put(
+        `https://blog-app-json-server.onrender.com/blogs/${id}`,
+        clickedBlog
+      );
     } catch (error) {
       console.error("Error fetching blogs:", error);
     }
@@ -63,7 +66,10 @@ function TodayBlog() {
     if (!isAlreadyBookmarked) {
       setBookmarkedBlogs([...bookmarkedBlogs, bookmarkedBlog]);
       try {
-        await axios.post("http://localhost:8000/bookmark", bookmarkedBlog);
+        await axios.post(
+          "https://blog-app-json-server.onrender.com/bookmark",
+          bookmarkedBlog
+        );
       } catch (error) {
         console.error("Error fetching blogs:", error);
       }
@@ -79,7 +85,9 @@ function TodayBlog() {
         "new bookmarkedblogs blogs"
       );
       try {
-        await axios.delete(`http://localhost:8000/bookmark/${id}`);
+        await axios.delete(
+          `https://blog-app-json-server.onrender.com/bookmark/${id}`
+        );
       } catch (error) {
         console.error("Error fetching blogs:", error);
       }
@@ -90,7 +98,10 @@ function TodayBlog() {
     // Update blogs is bookmarked status
     try {
       await axios
-        .put(`http://localhost:8000/blogs/${id}`, bookmarkedBlog)
+        .put(
+          `https://blog-app-json-server.onrender.com/blogs/${id}`,
+          bookmarkedBlog
+        )
         .then((response) => {
           // setBookmarkedBlogs(response.data);
           console.log(response);

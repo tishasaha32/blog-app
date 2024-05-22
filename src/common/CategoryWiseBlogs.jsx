@@ -12,7 +12,7 @@ function CategoryWiseBlogs({ activeTab }) {
 
   useEffect(() => {
     axios
-      .get("http://localhost:8000/blogs")
+      .get("https://blog-app-json-server.onrender.com/blogs")
       .then((response) => {
         setBlogs(response.data);
       })

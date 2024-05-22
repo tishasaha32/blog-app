@@ -13,7 +13,7 @@ function Blog({ match }) {
   useEffect(() => {
     // Fetch the blog data based on the ID
     axios
-      .get(`http://localhost:8000/blogs/${id}`)
+      .get(`https://blog-app-json-server.onrender.com/blogs/${id}`)
       .then((response) => {
         setBlog(response.data);
       })
